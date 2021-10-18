@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+	<privapp-permissions package="com.microsoft.surface.mssetupwizard">
+		<permission name="android.permission.SET_TIME" />
+		<permission name="android.permission.SET_TIME_ZONE" />
+	</privapp-permissions>
+</permissions>
