@@ -1,0 +1,5 @@
+service ypc_virtual_keyboard /system/bin/ypc_virtual_keyboard
+    class late_start
+    user system
+    group uhid
+    writepid /dev/cpuset/system/tasks
